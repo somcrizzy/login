@@ -1,0 +1,53 @@
+@media screen and (max-width: 600px) {
+    .log-in-background{
+        width: 100%;
+        background-image: url(./img/pix.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 650px;
+       padding-top: 30px;
+    }
+    .lg-details{
+        height: 550px;
+        width: 90%;
+        margin-right: 50%;
+        margin-left: 20px;
+        padding-top: 40px;
+        box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    }
+    #register{
+    background-image: url(./img/Frame\ 26085549.png);
+  background-repeat: no-repeat;
+  width: 280px;
+  height: 48px;
+  top: 596px;
+  left: 1px;
+  padding: 12px, 73px, 12px, 73px;
+  border-radius: 8px;
+  border: 1px;
+  margin: 0px 10%;
+   
+ 
+}
+#log-in{
+    background-image: url(./img/Frame\ 26085548.png);
+    background-repeat: no-repeat;
+    width: 290px;
+    height: 38px;
+    top: 596px;
+    left: 1px;
+    padding: 12px, 73px, 12px, 73px;
+    border-radius: 8px;
+    border: 1px;
+   margin-left: 40px;
+
+}
+    .password-input {
+        padding-right: 20px;
+    }
+
+    .eye-icon {
+        right: 5px;
+    }
+}
